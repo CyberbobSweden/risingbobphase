@@ -158,7 +158,6 @@ export const updateTitleScreen = () => {
   ctx.textAlign = "center";
   ctx.globalAlpha = 1;
   ctx.fillStyle = "white";
-  ctx.fillText("Ⓒ2021 - Nelson Berg, Mio Berg & Niklas Berg", width / 2, 455);
   // ctx.textAlign = "left";
 
   ctx.fillText("Touch, click or use arrow keys + space", width / 2, 1050);

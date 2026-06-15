@@ -14,10 +14,6 @@
 // Slå
 // zzfx(...[1.05,,108,,.03,.14,4,2.03,9.2,1.9,,,,.1,,.1,,.54,.02]); // Hit 118
 
-// ZzFX - Zuper Zmall Zound Zynth - Micro Edition
-// MIT License - Copyright 2019 Frank Force
-// https://github.com/KilledByAPixel/ZzFX
-
 // This is a tiny build of zzfx with only a zzfx function to play sounds.
 // You can use zzfxV to set volume.
 // Feel free to minify it further for your own needs!
